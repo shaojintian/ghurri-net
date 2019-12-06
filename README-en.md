@@ -2,7 +2,7 @@
 
 Quick start up a network application using this networking framework 
 
-中文 | [English]()
+[中文]() | English
 
 <!-- PROJECT SHIELDS -->
 
