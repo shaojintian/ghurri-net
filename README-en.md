@@ -2,7 +2,7 @@
 
 Quick start up a network application using this networking framework 
 
-[中文]() | English
+[中文](https://github.com/shaojintian/ghurri-net/blob/master/README.md) | English
 
 <!-- PROJECT SHIELDS -->
 
