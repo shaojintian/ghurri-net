@@ -1,6 +1,5 @@
 #  🌪ghurri-net
 
-Quick start up a network application using this networking framework 
 
 中文 | [English](https://github.com/shaojintian/ghurri-net/blob/master/README-en.md)
 
@@ -31,9 +30,9 @@ Quick start up a network application using this networking framework
     <img src="docs/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">🌪ghurri-net</h3>
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    使用此网络框架快速启动网络应用程序，灵感来源于<a href="https://github.com/panjf2000/gnet">gnet</a>
     <br />
     <a href="https://github.com/shaojintian/ghurri-net"><strong>Explore the docs »</strong></a>
     <br />
@@ -52,6 +51,7 @@ Quick start up a network application using this networking framework
 # 🚀 功能
 
 - [x] [高性能](#性能测试) 的基于多线程/Go程网络模型的 event-loop 事件驱动
+- [x] 支持Reactor 和 Proactor 两种架构模式
 - [x] 内置 Round-Robin 轮询负载均衡算法,由开源库 [gclover](https://github.com/shaojintian/gclover) 提供支持
 - [x] 内置 goroutine 池，由开源库 [gsweat](https://github.com/shaojintian/gsweat) 提供支持
 - [x] 内置 bytes 内存池，由开源库 [pool](https://github.com/gobwas/pool/) 提供支持
